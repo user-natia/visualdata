@@ -4,32 +4,14 @@
 
 ### Ceci est le titre deux
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>24 novembre 2021 : introduction aux cours (calendrier, biblio, ressources, modalités) + panorama, historique  et définition(s) générale(s) de la visualisation de données
+1 décembre 2021 : Suite de la précédente séance + Avant la visualisation de donnée : return to Earth (qualité et data wrangling)
+8 décembre 2021 : Suite de la précédente séance + manipulation de jeux de données et premières visualisations (utilisation de Palladio, DataStudio, appraw)
+15 décembre 2021 : manipulation de jeux de données avec Open Refine 
+22 décembre 2021 : congés
+29 décembre 2021 : congés
+5 janvier 2021 : Requêter, critiquer, exploiter et visualiser un jeux de donnée : le cas de wikidata (1ère séance)
+12 janvier 2021 : Requêter, critiquer, exploiter et visualiser un jeux de donnée : le cas de wikidata (2ème séance)
+19 janvier 2021 : Requêter, critiquer, exploiter et visualiser un jeux de donnée : le cas de wikidata (3ème séance)
+26 janvier 2021 : manipulation de jeux de données + examen 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/user-natia/visualdata/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
