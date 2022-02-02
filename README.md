@@ -84,3 +84,6 @@ ORDER BY ?humanLabel
 
 ## Conclusion <a name="Conclusion"></a>
 
+Pour conclure, nous pouvons dire que même si nous avons pu visualiser que la programmation des festivals français ne sera pas  boulversée à cause de la mortalité des musiciens et chanteurs lié à Covid19, la visualisation des données est un travail assez compliqué, car il faut prendre en compte beaucoup de détails et beaucoup d'aspects. 
+Typiquement, les données brutes ont souvent besoin d'être nettoyées, parfois même dans plusieurs logiciels et outils qui peuvent encore avoir des défauts et amener de nouvelles erreurs, il faut en permanence revenir et revoir si tout a été réalisé correctement. 
+En outre, on peut se poser beaucoup de questions, mais il n'est pas toujours possible de trouver les données pertinantes pour y répondre. 
