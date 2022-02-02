@@ -13,20 +13,24 @@ Projet pour le cours d'Analyse de données et datavisualisation
 
 
 ## Introduction <a name="introduction"></a>
-Malgré le fait que les humains aient compris l’importance de la visualisation des données très tôt, ce n’est qu’à partir des années 2000 que des ordinateurs assez puissants pour traiter un aussi grand volume de données ont été créés. À l'époque actuelle nous produisons des chiffres pour tout: pour les stocks, pour les facturations… Pourtant au fur et à mesure, le volume de données à traiter a augmenté si rapidement qu'il n’est plus possible de s'approprier et d'analyser une grande quantité de données en un simple coup d'œil. Et soyons honnête, le cerveau humain n’est pas fait pour analyser des milliers de lignes de données. Le travail suivant étudiera si la covid 19 a un impact sur la programmation des festivals français de rock. Voici une capture d'écran de l'outil en ligne Palladio qui montre que les festivals ont eu lieu à la fois en France métropolitaine, ainsi que dans les DOM-TOM, dans lequel j'ai utilisé la même data issue du ministère de la culture uaprès l'avoir nettoyée.
+Malgré le fait que les humains aient compris l’importance de la visualisation des données très tôt, ce n’est qu’à partir des années 2000 que des ordinateurs assez puissants pour traiter un aussi grand volume de données ont été créés. À l'époque actuelle nous produisons des chiffres pour tout: pour les stocks, pour les facturations… Pourtant au fur et à mesure, le volume de données à traiter a augmenté si rapidement qu'il n’est plus possible de s'approprier et d'analyser une grande quantité de données en un simple coup d'œil. Et soyons honnête, le cerveau humain n’est pas fait pour analyser des milliers de lignes de données. Le travail suivant étudiera si la covid 19 a un impact sur la programmation des festivals français de rock. 
 
 
-
-## Partie 1 
+## Partie 1 <a name="paragraph1"></a>
 Tout d'abord voyons tous les festivals français existants à l'aide de l'outil en ligne datawrapper. Comme données je me suis servie de data fournies par le ministère de la culture publiées en 2018 sur leur site dédié à l'open data. J'ai ensuite nettoyé les données brutes dans OpenRefine (j'ai retiré le colonnes non pertinentes par rapport à ce travail, ainsi que les espaces vides et j'ai aussi supprimé les premières lignes de description qui m'empéchait de bien exploiter les données dans les outils utilisés pour ce travail). 
 
 
 <iframe title="Festivals" aria-label="Tableau" id="datawrapper-chart-MO6AV" src="https://datawrapper.dwcdn.net/MO6AV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2144"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-    
-    
-    
+
+## Partie 2  <a name="paragraph2"></a>
+Voici une capture d'écran de l'outil en ligne Palladio qui montre que les festivals ont eu lieu à la fois en France métropolitaine, ainsi que dans les DOM-TOM, dans lequel j'ai utilisé la même data issue du ministère de la culture uaprès l'avoir nettoyée.
+
+![Palladio](https://github.com/user-natia/visualdata/blob/80f1be2c89a3d8ce96bbdf20fa8ece23185e7375/Palladio.png)
+
+   
+## Partie 3 <a name="paragraph3"></a>    
 
 ```sparql
 #Musiciens ou chanteurs qui ont un genre contenant 'rock' et qui ont mort à cause du COVID 19
