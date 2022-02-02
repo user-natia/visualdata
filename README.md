@@ -8,7 +8,7 @@ Projet pour le cours d'Analyse de données et datavisualisation
     
 ## Welcome, le titre un
 
-```Sparql
+```sparql
 #Musiciens ou chanteurs qui ont un genre contenant 'rock' et qui ont mort à cause du COVID 19
 #defaultView:Graph
 SELECT DISTINCT ?human ?humanLabel 
@@ -34,7 +34,7 @@ ORDER BY ?humanLabel
 
 ## Welcome, le titre deux
 ### Les rock musiciens qui se sont decedé à cause de Covid 19
-```Sparql
+```sparql
 #Musiciens ou chanteurs qui ont un genre contenant 'rock' et qui ont mort à cause du COVID 19
 #defaultView:Tree
 SELECT DISTINCT ?human ?humanLabel 
