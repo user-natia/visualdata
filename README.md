@@ -1,5 +1,5 @@
 # Visual data
-Pour le cours d'Analyse de données et datavisualisation
+Projet pour le cours d'Analyse de données et datavisualisation
 
 ## Welcome, le titre un
 
